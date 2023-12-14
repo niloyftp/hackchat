@@ -1,2 +1,2 @@
 # hackchat 
-hack.chat/?niloyftp
+https://hack.chat/?niloyftp
